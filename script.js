@@ -22,7 +22,7 @@ const scenes = [
     },
     {
         image: "5.png",
-        text: "-My master, Darth Malakar, has sent me to recover an ancient artifact, an object of unimaginable power. He claims it holds the key to dominating the galaxy, but I know the Sith cannot be trusted."
+        text: "-My master, Darth Reed, has sent me to recover an ancient artifact, an object of unimaginable power. He claims it holds the key to dominating the galaxy, but I know the Sith cannot be trusted."
     },
     {
         image: "6.png",
